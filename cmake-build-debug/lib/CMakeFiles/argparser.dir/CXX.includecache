@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/pog/CLionProjects/labwork-5-ISKorobov/lib/ArgParser.cpp
+ArgParser.h
+C:/pog/CLionProjects/labwork-5-ISKorobov/lib/ArgParser.h
+
+C:/pog/CLionProjects/labwork-5-ISKorobov/lib/ArgParser.h
+vector
+-
+string
+-
+
